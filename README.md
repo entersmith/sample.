@@ -2,14 +2,24 @@
 <html lang="ja" class>
  <head>
    <meta charset="utf-8">
-   <meta name="keywords" content>
-   <meta name="description"content>
+   <meta name="keywords" content=猫,癒し,子猫>
+   <meta name="description"content="癒されます。">
    <meta name="viewport" content="width=device,user-scalable=no,maximum-scale=1.0">
    <meta name="format-detection" content="telephone=no">
    <title>naughty　world｜サンプルサイト</title> 
-   <meta porperty="og:site_name" content="naughty world｜サンプルサイト">
-   <meta property="og:title" content="naughty world｜サンプルサイト">
-   <link rel="icon" href=""> <!--ファビコンのpngで。-->
+  <!--OGP-->
+   <meta property="og:type" content="website">
+   <meta property="og:title" content="sample｜サンプル">
+   <meta property="og:url" content="https://www.neko.co.jp">
+   <meta property="og:site_name" content="sample｜サンプル">
+   <meta property="og:description" content="猫,癒し,子猫">
+   <meta property="og:image" content="https//www.neko.cp.jp/common_assets/images/ogp.png">==$0
+  <!--favicon-->
+   <link rel="icon" type=""> <!--ファビコンのpngで。-->
+  <!--Smart device-->
+     <meta name="viewport" content="width=device,user-scalable=no,maximum-scale=1.0">
+  <!--styles-->
+  <!--Web font-->
    <link rel="stylesheet" href="" type="">
    <link rel="stylesheet" href="" type="">
    <script type="text/javascript" async scr=""></script>
